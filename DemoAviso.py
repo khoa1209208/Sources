@@ -582,7 +582,7 @@ class Aviso:
                     time.sleep(1)
                     for ne in range(int(TIME), -1, -1):
                         print(f'{green}Đang Xem Video Đợi {do}: {trang}{ne} giây \r', end='', flush=True)
-                        time.sleep(1.15)
+                        time.sleep(1.2)
                     
                     headers3 = {
                         'accept': 'application/json, text/javascript, */*; q=0.01',
