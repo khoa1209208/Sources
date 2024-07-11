@@ -6,6 +6,7 @@ try:
     while True:
         os.system("cls" if os.name == "nt" else "clear")
         print('[ KhoaTool ] </> [1] Aviso (Quảng Cáo + Youtube) [ Ổn Định ]')
+        print('[ KhoaTool ] </> [2] Earn-PePe [ Ổn Định ]')
         chon = int(input('Nhập Lựa Chọn : '))
         if chon == 1:
             os.system("cls" if os.name == "nt" else "clear")
